@@ -7,7 +7,8 @@
   "repository": "https://github.com/ceylon85/MovieQL",
   "author": "ceylon85",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
