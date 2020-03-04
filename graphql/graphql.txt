@@ -1,0 +1,13 @@
+Nodemon
+- 파일을 수정할때마다 서버를 재시작
+
+Playground -> GraphQL-yoga
+- Database 를 test(localhost:4000)
+
+Resolvers
+- Query를 해결(resolve)
+- GraphQL 서버가 Query나 Mutation의 정의를 발견하면 Resolver를 찾아 해당 함수를 실행
+
+Mutation
+- DB 상태가 변할 때 사용 change of state
+- GraphQL 에게 Mutation이나 Query를 요청하길 원할 때 type Query와 type Mutation에 넣어야 함
